@@ -1,0 +1,20 @@
+body {
+  background: url(https://vignette.wikia.nocookie.net/joke-battles/images/6/60/Ainsley-Harriott.jpg/revision/latest?cb=20151202185854);
+  background-repeat: no-repeat;
+}
+
+div {
+  background-color: blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+
+p {
+  color: yellow;
+}
+
+span {
+  background: red;
+  color: black;
+}
