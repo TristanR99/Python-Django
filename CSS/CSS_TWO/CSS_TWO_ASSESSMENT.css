@@ -1,0 +1,35 @@
+/*Choose a cool Font Text Scheme*/
+
+h1 {
+  font-family: "Baskervville", serif;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+td {
+  height: 200px;
+  width: 100px;
+  border: 6px solid white;
+}
+
+#one {
+  background-color: #6699cc;
+}
+
+#two {
+  background-color: #fff275;
+}
+
+#three {
+  background-color: #ff8c42;
+}
+
+#four {
+  background-color: #ff3c38;
+}
+
+#five {
+  background-color: #a23e48;
+}
